@@ -2,7 +2,7 @@
 
 Dataset: [IMDB data](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
-##Table of Content
+## Table of Content
 
 * [Objective](#objective)
 * [Overview](#overview)
